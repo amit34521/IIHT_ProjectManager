@@ -121,8 +121,10 @@
     <Compile Include="ActionFilters\ProjectManagerLogFilterAttribute.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="BC\ProjectBC.cs" />
+    <Compile Include="BC\TaskBC.cs" />
     <Compile Include="BC\UserBC.cs" />
     <Compile Include="Controllers\ProjectController.cs" />
+    <Compile Include="Controllers\TaskController.cs" />
     <Compile Include="Controllers\UserController.cs" />
     <Compile Include="DAC\Model1.Context.cs">
       <AutoGen>True</AutoGen>

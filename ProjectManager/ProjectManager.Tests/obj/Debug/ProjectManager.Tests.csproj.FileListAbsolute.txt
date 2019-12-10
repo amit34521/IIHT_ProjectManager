@@ -30,3 +30,6 @@ C:\Users\Admin\source\repos\ProjectManager\ProjectManager.Tests\bin\Debug\System
 C:\Users\Admin\source\repos\ProjectManager\ProjectManager.Tests\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Admin\source\repos\ProjectManager\ProjectManager.Tests\bin\Debug\EntityFramework.dll
 C:\Users\Admin\source\repos\ProjectManager\ProjectManager.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\ProjectManager\ProjectManager.Tests\bin\Debug\ProjectManager.Tests.dll.config
+C:\Users\Admin\source\repos\ProjectManager\ProjectManager.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\ProjectManager\ProjectManager.Tests\bin\Debug\EntityFramework.SqlServer.xml
